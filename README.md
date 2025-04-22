@@ -1,7 +1,3 @@
-Boa! Aqui está a versão do `README.md` com ícones nos tópicos, no estilo que você mencionou:
-
----
-
 # 🗳️ Simulador de Intenção de Votos
 
 Aplicativo Android desenvolvido em **Java** com o **Android Studio**, voltado para simulações de pesquisas eleitorais. Permite registrar votos **estimulados** e **espontâneos**, além de coletar dados sobre os **principais problemas da cidade** segundo os entrevistados.
@@ -53,7 +49,3 @@ Ideal para:
 |-----------------|--------------|---------------|
 | Admin           | `admin`      | `admin`       |
 | Pesquisador     | `pesquisador`| `pesquisador` |
-
----
-
-Se quiser, posso adicionar um print da tela inicial, fluxograma das telas, ou até instruções para gerar APK. Só avisar!
