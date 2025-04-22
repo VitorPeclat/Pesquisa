@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pesquisa Espontânea"
+        android:textSize="24sp"
+        android:layout_marginBottom="24dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Digite o nome de um dos candidatos:"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Candidatos válidos: ze da manga, goku, julian casablancas, yujiro hanma ou celta preto"
+        android:textStyle="italic"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/edNomeCandidato"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nome do candidato"
+        android:inputType="textCapWords"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/txMensagem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/btConfirmar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirmar Voto"/>
+
+</LinearLayout>
