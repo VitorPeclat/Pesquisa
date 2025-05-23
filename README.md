@@ -35,8 +35,6 @@ Ideal para:
 ## 🚀 Como usar
 
 1. Abra o projeto via Android Studio
-   e/ou
-2. Execute o APK do arquivo ZIP no seu dispositivo Android
 
 ---
 
