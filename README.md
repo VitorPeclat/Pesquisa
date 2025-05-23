@@ -35,6 +35,8 @@ Ideal para:
 ## 🚀 Como usar
 
 1. Abra o projeto via Android Studio
+  e/ou
+2. Instale o APK no seu dispositivo Android 
 
 ---
 
