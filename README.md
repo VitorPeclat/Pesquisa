@@ -34,12 +34,9 @@ Ideal para:
 
 ## 🚀 Como usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Abra o projeto no Android Studio.
-3. Compile e execute em um dispositivo físico ou emulador.
+1. Abra o projeto via Android Studio
+   e/ou
+2. Execute o APK do arquivo ZIP no seu dispositivo Android
 
 ---
 
